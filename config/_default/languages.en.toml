@@ -1,0 +1,34 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Linux / Gnub"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+  # logo = "portrat.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  # description = "My awesome website"
+   copyright = "&Copy; 2025 Augustus St Clair. All Rights Reserved "
+
+ [params.author]
+   name = "Gus St Clair"
+   email = "info@linuxgnub.com"
+   image = "https://avatars.githubusercontent.com/u/233183486?v=4"
+   imageQuality = 96
+   headline = "Going from linux/gnub to command line Hero"
+#   bio = "A little bit about you"
+   links = [
+#     { email = "mailto:hello@your_domain.com" },
+#     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
+#     { discord = "https://discord.gg/invitecode" },
+#     { github = "https://github.com/username" },
+#     { gitlab = "https://gitlab.com/username" },
+#     { mastodon = "https://mastodon.instance/@username" },
+#     { patreon = "https://www.patreon.com/username" },
+     { youtube = "https://youtube.com/LinuxGnub" },
+#     { ko-fi = "https://ko-fi.com/username" },
+   ]
