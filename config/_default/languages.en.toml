@@ -29,6 +29,6 @@ title = "Linux / Gnub"
 #     { gitlab = "https://gitlab.com/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { patreon = "https://www.patreon.com/username" },
-     { youtube = "https://youtube.com/LinuxGnub" },
+     { youtube = "https://youtube.com/@LinuxGnub" },
 #     { ko-fi = "https://ko-fi.com/username" },
    ]
