@@ -12,7 +12,7 @@ title = "Linux / Gnub"
   # logo = "portrat.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-   copyright = "&Copy; 2025 Augustus St Clair. All Rights Reserved "
+   copyright = "&copy; 2025 Augustus St Clair. All Rights Reserved "
 
  [params.author]
    name = "Gus St Clair"
@@ -25,7 +25,7 @@ title = "Linux / Gnub"
 #     { email = "mailto:hello@your_domain.com" },
 #     { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
 #     { discord = "https://discord.gg/invitecode" },
-#     { github = "https://github.com/username" },
+     { github = "https://github.com/linux-gnub" },
 #     { gitlab = "https://gitlab.com/username" },
 #     { mastodon = "https://mastodon.instance/@username" },
 #     { patreon = "https://www.patreon.com/username" },
